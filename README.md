@@ -3,7 +3,7 @@
 <!--
 **Researcher! Political Scientist! Data Analyst from Cameroon! Published Researcher @ Wiley**
 
-Dean of Studies: HIBMAT University Institute of Buea - Douala Campus
+Studied in University of Buea 
 Master's in Poltical Science
 Python ! Pandas ! EDA ! Data Cleaning
 Published: Resolving Conflict in the Workplace: A Case Study of the Port Authority of Douala
