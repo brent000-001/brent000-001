@@ -36,6 +36,19 @@ EDA Visualization for Port Authority Conflict Data
 - EDA Visualization Complete
 - Deployed from Chromebook Linux
 
+- # PAD Conflict Analysis - Yaounde
+
+Live App: https://brent000-001-pad-conflict-eda.streamlit.app
+
+Exploratory Data Analysis of Port Authority of Douala Conflict Data.
+Based on: Lawong Brent B.B (2026) Resolving Conflict in the Workplace: a Case Study of the Port Authority of Douala. Conflict Resolution Quarterly, Wiley DOI: 10.1002/CRQ-70048
+
+### Tech Stack
+Python | pandas | EDA | Data Cleaning | Streamlit
+
+### Departments Analyzed
+Finance, HR, Logistics, Operations
+
 ## 🛠️ Tech Stack
 - Python
 - Streamlit
