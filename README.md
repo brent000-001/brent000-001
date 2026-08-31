@@ -22,5 +22,25 @@ Published: Resolving Conflict in the Workplace: A Case Study of the Port Authori
 
 ### Featured Publication
 **Lawong Brent B.B (2026)** *Resolving Conflict in the Workplace: a Case Study of the Port Authority of Doauala*
+
+
+# PAD Conflict Analysis - Yaounde
+
+EDA Visualization for Port Authority Conflict Data
+
+## 🚀 Live App
+**[https://brent000-001-pad-conflict-eda.streamlit.app](https://brent000-001-pad-conflict-eda.streamlit.app)**
+
+## 📊 Features
+- Conflict analysis by department: Finance, HR, Logistics, Operations
+- EDA Visualization Complete
+- Deployed from Chromebook Linux
+
+## 🛠️ Tech Stack
+- Python
+- Streamlit
+- Pandas / Plotly
+
+## 📁 Project Structure
 *Conflict Resolution Quarterly, Wiley*
 DOI: 10.1002/CRQ-70048
